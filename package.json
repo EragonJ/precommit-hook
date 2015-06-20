@@ -9,7 +9,7 @@
     "url": "https://github.com/nlf/precommit-hook.git"
   },
   "dependencies": {
-    "git-validate": "^2.0.0",
+    "git-validate": "eragonj/git-validate",
     "jshint": "*"
   },
   "scripts": {
